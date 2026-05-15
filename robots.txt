@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neth1122.github.io/notes-72dq4t/sitemap.xml
